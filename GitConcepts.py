@@ -3,5 +3,5 @@ def printMaths():
 
 
 # Just prints
-print("Git Concepts")
+print("I learnt Git Concepts")
 printMaths()
